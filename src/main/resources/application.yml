@@ -16,7 +16,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/covid
     username: root
-    password: 25gn3umb
+    password: # 自己的mysql密码
 
 mybatis:
   configuration:
